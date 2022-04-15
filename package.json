@@ -21,12 +21,8 @@
   "directories": {
     "test": "test"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@bitbucket.org:unqork/angular-viewport-watch"
-  },
+  "repository": {},
   "author": "Damiano Melcarne <damiano.melcarne-x@unqork.com>",
   "license": "MIT",
-  "bugs": {},
-  "homepage": "git@bitbucket.org:unqork/angular-viewport-watch#readme"
+  "bugs": {}
 }
