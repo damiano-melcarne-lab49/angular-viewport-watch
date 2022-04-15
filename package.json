@@ -16,7 +16,7 @@
   "scripts": {},
   "private": false,
   "publishConfig": {},
-  "description": "Improves performance of long elmeent lists in AngularJS by disabling watchers for elements that are not displayed inside the user's viewport.",
+  "description": "Improves performance of long element lists in AngularJS by disabling watchers for elements that are not displayed inside the user's viewport.",
   "main": "angular-viewport-watch.js",
   "directories": {
     "test": "test"
